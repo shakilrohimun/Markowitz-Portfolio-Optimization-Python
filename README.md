@@ -41,7 +41,7 @@ Starting from a Taylor expansion of a **utility function** $U(X)$ around its mea
 
 We obtain the **certainty equivalent** of the portfolio:
 ```math
-E_c(X) = \bar{X} - \frac{\rho(\bar{X})}{2} \operatorname{Var}(X)
+E_c(X) = \bar{X} - \frac{\rho(\bar{X})}{2} \mathrm{Var}(X)
 ```
 
 Maximizing $E_c(X)$ leads to the Markowitz formulation:
