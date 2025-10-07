@@ -19,7 +19,7 @@ The goal is to construct an **efficient portfolio** that maximizes expected retu
 
 - **Portfolio Variance (Risk):**
   ```math
-  \sigma_p^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \operatorname{Cov}(R_i, R_j)
+  \sigma_p^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \mathrm{Cov}(R_i, R_j)
   ```
 
 - **Optimization Problem:**
